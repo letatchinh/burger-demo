@@ -1,0 +1,1 @@
+export const LOCALSTORED_KEY = "accountBurger"
